@@ -1,0 +1,46 @@
+table
+{
+    width: 100%;
+}
+
+td:nth-child(1) 
+{
+    width:35%;
+    vertical-align: top;
+}
+td:nth-child(2) 
+{
+    width:5%;
+}
+td:nth-child(3) 
+{
+    width:35%;
+    vertical-align: top;
+
+}
+
+span
+{
+    vertical-align: top;
+    width: 50px;
+}
+
+.leftText
+{
+    text-align: left;
+}
+.rightText
+{
+    text-align: right;
+}
+.img-responsive
+{
+    width: 325px;
+}
+
+#hphone
+{
+    position:absolute;
+    left:814;
+    top:0;
+}
